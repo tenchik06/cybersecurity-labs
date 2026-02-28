@@ -37,14 +37,3 @@
 - Знание Python (для задания 3)
 - Понимание принципов кодирования Base64
 
-### Структура репозитория
-.
-├── README.md
-├── lab-tasks/
-│ ├── task1_suspicious_file/
-│ ├── task2_logs/
-│ ├── task3_malicious_script/
-│ ├── task4_base64/
-│ └── task5_base64_advanced/
-└── solutions/
-└── answers.md
